@@ -1,0 +1,6 @@
+{
+  "name": "CodeIDE",
+  "description": "Full mobile IDE for Android inspired by IntelliJ IDEA with project management, code editor, AI assistant, terminal, and Git integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
